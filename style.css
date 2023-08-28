@@ -1,0 +1,130 @@
+body{
+    height: 100vh;
+    background-color:  hsl(235, 18%, 26%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 3.5rem;
+    font-weight: 600;
+    color: hsl(234, 29%, 20%);
+}
+
+.main{
+    align-items: center;
+    font-family: Roboto;
+    display: flex;
+    height: 90vh;
+    width: 70%;
+    background-color: aliceblue;
+    border: solid 2px transparent;
+    border-radius: 35px;
+}
+
+p{
+    font-size: 16px;
+    color: hsl(234, 29%, 20%);
+}
+
+#email-lable{
+    display: inline;
+    font-size: small;
+    margin-top: 0;
+    padding-top: 0;
+    color: hsl(234, 29%, 20%);
+}
+
+.content{
+    margin-top: 55px;
+    padding-left: 50px;
+    width: 50%;
+    height: 90%;
+    /* background-color: rgb(140, 194, 194); */
+}
+
+#img{
+    position: relative;
+    left: 10px;
+    top: 10px;
+    height: 600px;
+    width: 400px;
+    border-radius: 25px;
+
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+}
+
+#email{
+    width: 400px;
+    height: 45px;
+    border: solid 1px rgba(0, 0, 0, 0.507);
+    border-radius: 10px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    padding-top: 0;
+}
+
+#submit-btn{
+    width: 400px;
+    height: 55px;
+    border: solid 1px rgba(0, 0, 0, 0.507);
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: rgba(2, 11, 63, 0.877);
+    transition: .5s;
+}
+
+#submit-btn:hover{
+    background-color:hsl(4, 100%, 67%);
+    filter: drop-shadow(3px 3px 10px hsl(4, 100%, 67%));
+}
+
+#error-msg{
+width: 200px;
+color: red;
+font-size: small;
+display: inline;
+position: relative;
+left: 60%;
+top: -28px;
+}
+
+#done{
+    height: 75vh;
+    width: 35%;
+    padding-top: 20px;
+    background-color: aliceblue;
+    border: solid 2px transparent;
+    border-radius: 35px;
+    padding-left: 70px;
+    font-family: Roboto;
+}
+
+#comfirm{
+    font-size: 16px;
+    color: hsl(234, 29%, 20%);
+    width: 400px;
+    font-family: Roboto;
+    line-height:25px;
+}
+
+#dismiss{
+    width: 400px;
+    height: 55px;
+    border: solid 1px rgba(0, 0, 0, 0.507);
+    margin-top: 40px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: rgba(2, 11, 63, 0.877);
+    transition: .5s;
+}
+
+#dismiss:hover{
+    background-color:hsl(4, 100%, 67%);
+    filter: drop-shadow(3px 3px 10px hsl(4, 100%, 67%));
+}
