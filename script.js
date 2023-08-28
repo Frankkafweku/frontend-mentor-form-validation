@@ -25,6 +25,6 @@ form.addEventListener('submit',(e)=>{
 });
 
 function dismiss(){
-alert("hello")
+    window.location.href = 'index.html'
 }
 dismissMsg.addEventListener(click,dismiss() )
