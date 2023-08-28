@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Frankkafweku/frontend-mentor-form-validation)
-- Live Site URL: [Add live site URL here]()
+- Solution URL: (https://github.com/Frankkafweku/frontend-mentor-form-validation)
+- Live Site URL: (https://harmonious-licorice-2af09b.netlify.app/)
 
 ### Built with
 
