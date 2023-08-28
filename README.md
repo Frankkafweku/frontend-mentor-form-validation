@@ -55,7 +55,7 @@ function dismiss(){
 - I would like to continue learning more javaScript and Css 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Frankkafweku)
-- Twitter - [@yourusername](https://twitter.com/flamewalker1816)
+- Frontend Mentor - [Frank Kafweku](https://www.frontendmentor.io/profile/Frankkafweku)
+- Twitter - [Flamewalker1816](https://twitter.com/flamewalker1816)
 
 
